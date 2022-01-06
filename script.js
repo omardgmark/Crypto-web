@@ -1,4 +1,8 @@
 
+var btc = document.getElementById("bitcoin");
+var eth = document.getElementById("etherium");
+var doge = document.getElementById("dogecoin");
+
 var settings = {
     "async" = true,
     "scrossDomain": true,
